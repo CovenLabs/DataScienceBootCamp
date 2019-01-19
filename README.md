@@ -13,6 +13,15 @@ Classes start with introducing the students to computer programming and building
 ##  Faculty Leads
 - [Innocent Udeogu](https://www.github.com/innarticles)
 
+### Beginners Class - Data Analysis
+    - Understanding the nature of Data
+    - Introduction to Python Programming
+    - Data Wrangling using Python Libraries
+    - Data exploration and Visualization (Excel and Python)
+    - CAPSTONE PROJECT 1
+    
+    
+
 #### Milestone 2: Specialisations  
 - Data Visualisation
   -[Data Visualisation and D3.js](https://www.udacity.com/course/ud507)
